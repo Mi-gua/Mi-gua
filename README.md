@@ -1,11 +1,11 @@
--👋 Hi, I’m Miggua (@Mi-gua), an EE student at NUAA.
--👀 Passionate about deep thinking and exploring boundary-pushing ideas.
--✨ My interests span Multimodal signal processing, Artificial Intelligence, and Physics.
--🌱 Currently diving deep into LLM agents and DL-based visual processing.
--💞️ As a newcomer, I’m excited to learn and collaborate on open-source projects.
--📫 Reach me: Miggua4321@o/g.com
--😄 Guaaa 🍉
--⚡ ...
+-👋 Hi, I’m Miggua (@Mi-gua), an EE student in China.  
+-👀 Passionate about deep thinking and exploring boundary-pushing ideas.  
+-✨ My interests span Multimodal signal processing, Artificial Intelligence, and Physics.  
+-🌱 Currently diving deep into LLM agents and DL-based visual processing.  
+-💞️ As a newcomer, I’m excited to learn and collaborate on open-source projects.  
+-📫 Reach me: Miggua4321@o/g.com  
+-😄 Guaaa. 🍉  
+-⚡ In the process of learning...
 
 
 <!---
