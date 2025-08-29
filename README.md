@@ -1,4 +1,3 @@
-- 🔭 Hey! I’m Miggua, an EE student.  
-- 📫 Reach me: Miggua4321
+- 🔭 Hey! I’m Mi, an EE student.  
 - 🌱 In the process of learning...
 - ⚡ 👋👋👋
